@@ -22,7 +22,7 @@ music-making software but also create musically appealing
 melodies.
 
 <h2>IEEE paper is available inside the Procedurally Generated Music IEEE.pdf file</h2>
-
+https://github.com/shimuraii/pcg_music_python/blob/main/Procedurally%20Generated%20Music%20IEEE.pdf
 <h1>Requirements for testing</h1>
 
 For testing, please have the following libraries installed for the according files:

@@ -1,0 +1,13 @@
+add readme content and modify name files
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	renamed:    IEEE Portfolio 1.docx.pdf -> Procedurally Generated Music IEEE.pdf
+#	modified:   README.md
+#	renamed:    pcg_music2.py -> procedural_music_generator.py
+#	renamed:    test2.py -> procedural_music_generator_in_waveform.py
+#
