@@ -45,6 +45,17 @@ Run the file. A terminal prompt will ask for 2 things: Key for music generator (
 
 This file generates melody1.wav, melody2.wav, thesong1.wav, thesong2.wav, and thesong_combined.wav. This implementation is heavily inspired in this (https://betterprogramming.pub/making-music-from-images-with-python-81db627fd549) article by Victor Murcia where he uses images to transform images into a music. This implementation is a combination of my generator function in the procedural_music_generator.py that transforms the music in waveform.
 
+Libraries:
+
+- wave
+- array
+- random
+- IPython.display as ipd
+- numpy as np
+- scipy.io.wavfile import write
+- scipy.io import wavfile
+- music21 import stream, note, tempo
+
 <h3>Usage</h3>
 
 Run the file.
